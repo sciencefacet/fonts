@@ -23,3 +23,5 @@
 * 扩展注音符号、中日韩笔划、中日韩兼容、中日韩标点符号和带圈或括弧中日韩字母及月份这几个与中文相关的区块的字符，在古籍和文史哲学术论著数字化中利用率较低，暂未整批收录。
 
 Download Link: [http://www.ancientbooks.cn/helpcore?font](http://www.ancientbooks.cn/helpcore?font)
+
+下载链接：[http://www.ancientbooks.cn/helpcore?font](http://www.ancientbooks.cn/helpcore?font)
